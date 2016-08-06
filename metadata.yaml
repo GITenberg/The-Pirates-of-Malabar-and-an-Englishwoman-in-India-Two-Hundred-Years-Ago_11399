@@ -1,0 +1,28 @@
+_repo: The-Pirates-of-Malabar-and-an-Englishwoman-in-India-Two-Hundred-Years-Ago_11399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Biddulph, J. (John)
+    alias: Biddulph, John
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '3965'
+    url: http://www.gutenberg.org/2009/agents/3965
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates'
+- !lcsh 'East India Company -- History'
+- !lcsh 'India -- History -- 18th century'
+- !lcc 'G'
+- GITenberg
+title: The Pirates of Malabar, and an Englishwoman in India Two Hundred Years Ago
+url: http://www.gutenberg.org/ebooks/11399
